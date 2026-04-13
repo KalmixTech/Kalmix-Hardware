@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Assets/kalmix-logo.png" alt="Kalmix" width="260">
+  <img src="Assets/KALMIX-Logo.png" alt="Kalmix" width="260">
 </p>
 
 <h3 align="center">Hardware Documentation Repository</h3>
