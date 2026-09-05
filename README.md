@@ -24,6 +24,7 @@
 | **SCOUT PRO** | [View Product](https://www.kalmixtech.com/products/kalmix-scout-pro) | [Datasheet](SCOUT-PRO/Datasheet/) | [Interface](SCOUT-PRO/Interface/) | [Mechanical](SCOUT-PRO/Mechanical/) | [Protocol](SCOUT-PRO/Protocol/) | [Compliance](SCOUT-PRO/Compliance/) |
 | **SCOUT** | [View Product](https://www.kalmixtech.com/products/kalmix-scout) | [Datasheet](SCOUT/Datasheet/) | [Interface](SCOUT/Interface/) | [Mechanical](SCOUT/Mechanical/) | [Protocol](SCOUT/Protocol/) | [Compliance](SCOUT/Compliance/) |
 | **GUIDE K35** | [View Product](https://www.kalmixtech.com/products/kalmix-guide-k35-gnss-module) | [Datasheet](GUIDE/Datasheet/) | [Interface](GUIDE/Interface/) | [Mechanical](GUIDE/Mechanical/) | [Protocol](GUIDE/Protocol/) | [Compliance](GUIDE/Compliance/) |
+| **ZENITH** | [View Product](https://www.kalmixtech.com/products/kalmix-zenith-antenna) | [Datasheet](ZENITH/Datasheet/) | — | [Mechanical](ZENITH/Mechanical/) | — | [Compliance](ZENITH/Compliance/) |
 
 ---
 
@@ -62,6 +63,11 @@ Kalmix-Hardware/
 │   ├── Interface/
 │   ├── Mechanical/
 │   └── Protocol/
+│
+├── ZENITH/
+│   ├── Compliance/
+│   ├── Datasheet/
+│   └── Mechanical/
 │
 ├── Assets/
 │   └── KALMIX-Logo.png
