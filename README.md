@@ -19,10 +19,11 @@
 
 ## Product Index
 
-| Product | Product Page | Datasheet | Interface | Mechanical | Protocol |
-|---|---|---|---|---|---|
-| **SCOUT PRO** | [View Product](https://www.kalmixtech.com/products/kalmix-scout-pro) | [Datasheet](SCOUT-PRO/Datasheet/) | [Interface](SCOUT-PRO/Interface/) | [Mechanical](SCOUT-PRO/Mechanical/) | [Protocol](SCOUT-PRO/Protocol/) |
-| **SCOUT** | [View Product](https://www.kalmixtech.com/products/kalmix-scout) | [Datasheet](SCOUT/Datasheet/) | [Interface](SCOUT/Interface/) | [Mechanical](SCOUT/Mechanical/) | [Protocol](SCOUT/Protocol/) |
+| Product | Product Page | Datasheet | Interface | Mechanical | Protocol | Compliance |
+|---|---|---|---|---|---|---|
+| **SCOUT PRO** | [View Product](https://www.kalmixtech.com/products/kalmix-scout-pro) | [Datasheet](SCOUT-PRO/Datasheet/) | [Interface](SCOUT-PRO/Interface/) | [Mechanical](SCOUT-PRO/Mechanical/) | [Protocol](SCOUT-PRO/Protocol/) | [Compliance](SCOUT-PRO/Compliance/) |
+| **SCOUT** | [View Product](https://www.kalmixtech.com/products/kalmix-scout) | [Datasheet](SCOUT/Datasheet/) | [Interface](SCOUT/Interface/) | [Mechanical](SCOUT/Mechanical/) | [Protocol](SCOUT/Protocol/) | [Compliance](SCOUT/Compliance/) |
+| **GUIDE K35** | [View Product](https://www.kalmixtech.com/products/kalmix-guide-k35-gnss-module) | [Datasheet](GUIDE/Datasheet/) | [Interface](GUIDE/Interface/) | [Mechanical](GUIDE/Mechanical/) | [Protocol](GUIDE/Protocol/) | [Compliance](GUIDE/Compliance/) |
 
 ---
 
@@ -49,6 +50,13 @@ Kalmix-Hardware/
 │   └── Protocol/
 │
 ├── SCOUT/
+│   ├── Compliance/
+│   ├── Datasheet/
+│   ├── Interface/
+│   ├── Mechanical/
+│   └── Protocol/
+│
+├── GUIDE/
 │   ├── Compliance/
 │   ├── Datasheet/
 │   ├── Interface/
